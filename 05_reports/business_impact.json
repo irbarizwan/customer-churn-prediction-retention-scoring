@@ -1,0 +1,11 @@
+{
+  "Total Customers Scored": 7043,
+  "HIGH Risk Customers": 1686,
+  "MEDIUM Risk Customers": 1768,
+  "LOW Risk Customers": 3589,
+  "Avg Monthly Revenue per Customer (USD)": 64.76,
+  "Assumed Intervention Success Rate": "30%",
+  "Estimated Revenue Saved \u2013 HIGH Risk (USD)": 393077.57,
+  "Estimated Revenue Saved \u2013 MEDIUM Risk (USD)": 206097.61,
+  "Total Estimated Revenue Saved (USD)": 599175.18
+}
